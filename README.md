@@ -83,4 +83,4 @@ Data Storytelling: Demonstrates how raw data can be turned into meaningful stori
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]
+Example: ![Dashboard Preview](https://github.com/tarunjyoti12/Virat-Kohli-Career-Statistics-Analysis/blob/main/Snapshot%20of%20Dashboard.JPG)
